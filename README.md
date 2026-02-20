@@ -19,7 +19,7 @@ This is different:
 
 - A Mac or PC with a terminal (Mac: search "Terminal" in Spotlight)
 - [Node.js](https://nodejs.org/) installed (download the LTS version, run the installer)
-- An Anthropic API key ([get one here](https://console.anthropic.com/))
+- An Anthropic API key or Claude Pro subscription ([get one here](https://console.anthropic.com/))
 
 ## Setup — Step by Step
 

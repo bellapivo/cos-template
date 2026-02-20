@@ -1,0 +1,31 @@
+# Current Context
+
+<!-- Claude updates this every session. It's the "what's happening right now" file. -->
+
+## Active Projects
+
+<!-- Example: -->
+<!-- - Project Name: Status and next steps -->
+<!-- - Website Redesign: Waiting on copy from Sarah, due Friday -->
+
+## This Week's Focus
+
+THE ONE THING: [not set yet — Claude will ask]
+
+## Today's Priorities
+
+1. [not set]
+2. [not set]
+3. [not set]
+
+## Open Loops
+
+<!-- Things that need follow-up. Claude tracks these across sessions. -->
+<!-- Example: -->
+<!-- - [ ] Follow up with Alex about contract -->
+<!-- - [ ] Finish slide deck by Thursday -->
+<!-- - [ ] Schedule dentist appointment -->
+
+## Notes
+
+<!-- Anything important to carry between sessions. -->
